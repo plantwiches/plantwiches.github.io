@@ -1,0 +1,293 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "Plantwiches",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Open Sans",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 18,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2",
+          "_params": {
+            "parallax": false,
+            "bgImageRadio": true,
+            "showArrow": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/background-2000x1120.png",
+            "bgColor": "#a07e49",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.1",
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "&nbsp;",
+          "text": "&nbsp;<br><br><br><br><br><br><br>Plantwiches<br>11124B NE Halsey St, Portland, OR 97220<br>(503) 760-8897<br>Open Monday through Saturday 11-8",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://order.postmates.com/taco-sandwiches-portland\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ORDER DELIVERY WITH POSTMATES</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary\" href=\"index.html#header3-3\" data-toolbar=\"-mbrBtnMove\">VIEW MENU</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://www.facebook.com/Plantwiches/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FACEBOOK</a> ",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            },
+            ".mbr-section-lead": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map2",
+          "_anchor": "map2-g",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#cccccc",
+            "googleMap": {
+              "address": "Plantwiches\n",
+              "placeId": "ChIJ5VZl7HuhlVQR54McmTM6Yq4",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "20px",
+              "color": "#000000"
+            },
+            "SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "22px"
+            },
+            "H3": {
+              "font-size": "48px"
+            },
+            "B": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#ffffff",
+            "showMeta": true
+          },
+          "title": "MENU<br>",
+          "meta": "<b style=\"font-style: normal;\">All Items 100% Plant-Based</b><br><span style=\"font-style: normal;\"><br></span><b><span style=\"font-style: normal;\">Sandwich $7<br>Sandwich Combo with Two Sides $10</span></b>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "22px"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-8",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Pulled Pork",
+          "meta": "Tender shredded BBQ jackfruit with pickles<br>(Can be made gluten-free and soy-free for $1)"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "22px"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-9",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Prime Beet Burger",
+          "meta": "A meaty, beety patty with all the traditional fixings"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "22px"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-a",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "BLT-A",
+          "meta": "Featuring our house-made smokey maple bacon<br>(Can be made gluten-free for $1)<br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "22px"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-b",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Chicken Bacon Ranch",
+          "meta": "With lettuce and tomato, our best-selling sandwich<br>(Can be made gluten-free for $1)<br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "22px"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-c",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Meatloaf and Mushroom Gravy<br>",
+          "meta": "Just like Mom used to make"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content6",
+          "_styles": {
+            "P": {
+              "font-size": "22px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "center"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content6-d",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#fff"
+          },
+          "text1": "<p><b>SIDES &nbsp; &nbsp; $3</b></p><p>Tots</p><p>'Slaw</p><p>Salad</p>",
+          "text2": "<p><b>ADD-ONS &nbsp; &nbsp; $1</b></p><p>Chao Cheese</p><p>Bacon</p><p>Avocado</p><p>Ranch</p>"
+        }
+      ]
+    }
+  }
+}
